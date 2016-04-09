@@ -1,0 +1,30 @@
+_repo: Leaves-of-Grass_1322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Poetry
+- Banned Books from Anne Haight's list
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Leaves of Grass
+url: http://www.gutenberg.org/ebooks/1322
